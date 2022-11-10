@@ -1,0 +1,2 @@
+--img_encoder_name=efficientnet-b7
+--txt_encoder_name=bert-base
