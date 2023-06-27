@@ -4,7 +4,7 @@ tensorflow-text==2.4.3
 tensorflow_hub==0.10.0
 cloud-tpu-profiler==2.4.0
 cloud-tpu-client
-transformers==4.4.1
+transformers==4.30.0
 tokenizers==0.10.1
 tensorflow-datasets
 absl-py==0.13.0
